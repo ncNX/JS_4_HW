@@ -71,14 +71,10 @@
 
 // adunare(5, 5, 5)
 
-const driver = {
-	name:'Alex',
-	age:'40',
-	gender:'male',
-	ocupation:'taxi driver',
-	city:'New York'
-}
 
-const driverInfo = () => {
-	console.log(``)
-}
+
+// const driverInfo = (name, hobby) => {
+// 	console.log(`My name is:  ${name} and my ocupation is:  ${hobby}`)
+// }
+
+// driverInfo ('alex', 'taxi driver')
